@@ -1,5 +1,6 @@
 return {
     "Ertzztrewertz",
+    "FRANZOSE",
     "TU_MAN727",
     "SuperSpeedUpDream",
     "WarriorSolFard",
