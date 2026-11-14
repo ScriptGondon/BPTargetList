@@ -16,6 +16,8 @@ return {
     "wayneeex1o",
     "alienkopf_1",
     "Rip281064",
+    "rantidih",
+    "Sn0w_Xmas",
     "evaasdfghjkl1",
     "Kat_tusus333",
     "Evan14roc",
