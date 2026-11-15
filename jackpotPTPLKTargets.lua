@@ -74,7 +74,6 @@ return {
     "alpah_wolf254",
     "Jjkd9191",
     "Wwwtnt88",
-    "saidkiller765_2",
     "jacy0524",
     "rovhkhfff",
     "Axinx17",
