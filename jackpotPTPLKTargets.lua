@@ -8,6 +8,8 @@ return {
     "Goku_God433",
     "illegreekfooddreven",
     "probro_4488",
+    "Xxgenesis837xX",
+    "GretaGrimm",
     "evaasdfghjlk1",
     "WarriorSolFard",
     "francis1212121212120",
