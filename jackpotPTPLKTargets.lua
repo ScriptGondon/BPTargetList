@@ -9,6 +9,7 @@ return {
     "Arthur_85322",
     "mrvampireeeeeeeeeeee",
     "Goku_God433",
+    "Toxic_XPRO7",
     "dkzkzkzk676",
     "perfectnoob866",
     "Pizzaman_YT",
