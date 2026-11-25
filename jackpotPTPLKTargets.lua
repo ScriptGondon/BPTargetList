@@ -11,6 +11,7 @@ return {
     "Goku_God433",
     "Toxic_XPRO7",
     "dkzkzkzk676",
+    "24kTahaFaruk",
     "perfectnoob866",
     "Pizzaman_YT",
     "illegreekfooddreven",
