@@ -13,6 +13,8 @@ return {
     "Toxic_XPRO7",
     "dkzkzkzk676",
     "24kTahaFaruk",
+    "silly_guy",
+    "",
     "perfectnoob866",
     "Pizzaman_YT",
     "illegreekfooddreven",
