@@ -10,6 +10,8 @@ return {
     "mrvampireeeeeeeeeeee",
     "Goku_God433",
     "dkzkzkzk676",
+    "perfectnoob866",
+    "Pizzaman_YT",
     "illegreekfooddreven",
     "probro_4488",
     "Sonicjf_16",
